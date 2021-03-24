@@ -1,0 +1,21 @@
+###############################################
+#                 JoinTitle                 #
+###############################################
+
+# You can define here the title, you can also use minecraft color codes like &c.
+
+display-title: "&cCustom title goes here!"
+display-subtitle: "&bCustom subtitle"
+
+# You can specify the fade, and show times here. (In server ticks)
+fade-in: 10
+show: 10
+fade-out: 20
+
+# What should OnJoinTitle display when it starts up.
+startup-message: "OnJoinTitle enabled."
+shutdown-message: "OnJoinTitle disabled."
+
+# Hope you enjoy my plugin please leave a review.
+
+
